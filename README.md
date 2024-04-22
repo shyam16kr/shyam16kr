@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shyam16kr
 - 👀 I’m a Data Engineer
-- 📫 How to reach me shyam16kr@gmail.com
+- 📫 How to reach me workwithshyamkr@gmail.com
 
 <!---
 shyam16kr/shyam16kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
